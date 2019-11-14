@@ -17,7 +17,7 @@ I also have a dog.
 
 * I love to sleep
 
-##### This is my schedule
+##### __This is my schedule__
 
 1. English
 
