@@ -17,10 +17,9 @@ I also have a dog.
 
         * I love drawing
 
-            * I like drawing animals
-
 * I love to sleep
 
+    * I love to dream
 
 ##### **_This is my schedule_**
 
