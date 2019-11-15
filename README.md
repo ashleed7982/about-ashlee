@@ -15,7 +15,12 @@ I also have a dog.
 
 * I like painting
 
+## * I love drawing
+
+### * I like drawing animals
+
 * I love to sleep
+
 
 ##### **_This is my schedule_**
 
