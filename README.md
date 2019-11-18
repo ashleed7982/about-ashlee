@@ -12,6 +12,7 @@ sister and ~~two older brothers~~ one older brother.
 I also have a dog.
 
 ---------------------------------------------------------
+__Some things I like and love to do:__
 
 * I love dogs
 
