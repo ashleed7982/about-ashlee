@@ -24,6 +24,8 @@ __Some things I like and love to do:__
 
     * I love to dream
 
+--------------------------------------------------------
+
 ##### **_This is my schedule_**
 
 1. English
@@ -43,4 +45,6 @@ __Some things I like and love to do:__
 1. Algebra
 
 This is our [class website!](https://sites.google.com/hstat.org/y1920sep11)
+
+--------------------------------------------------------
 
