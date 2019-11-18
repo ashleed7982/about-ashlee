@@ -1,6 +1,6 @@
-## My name is Ashlee Dejesus
+# My name is Ashlee Dejesus
 
-### My email is ashleed7982@hstat.org
+## My email is ashleed7982@hstat.org
 ---------------------------------------------------------
 
 I attend **High School of telecommunications arts and technology**
